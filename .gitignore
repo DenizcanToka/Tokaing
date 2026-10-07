@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# Build
+build/
+.build/
+
+# Archives
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Secrets
+.env
+.env.*
